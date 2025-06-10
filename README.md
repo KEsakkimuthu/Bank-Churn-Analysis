@@ -77,12 +77,3 @@ For questions or collaboration:
 
 This project analyzes customer churn data using Power BI. The goal is to identify key factors influencing customer churn and provide actionable insights for retention strategies.
 
----
-
-
-
-For questions or collaboration:
-- **Author:** *Your Name Here*
-- **Email:** your.email@example.com
-- **LinkedIn:** [# 🏦 Bank Customer Churn Analysis
-
