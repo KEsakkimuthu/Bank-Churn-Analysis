@@ -1,8 +1,9 @@
 # 🏦 Bank Customer Churn Analysis
 This project analyzes customer churn data using Power BI. The goal is to identify key factors influencing customer churn and provide actionable insights for retention strategies.
 
----
-![Power BI Dashboard]("C:\Users\ajays\OneDrive\Pictures\Screenshots\Screenshot 2025-06-11 103953.png")
+---![Screenshot 2025-06-11 103953](https://github.com/user-attachments/assets/5d7310e6-4956-41a5-be01-fc013c9a3d78)
+
+
 ## 📊 Dashboard Highlights
 
 - **Total Customers:** 10,000  
