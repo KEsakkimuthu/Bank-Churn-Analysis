@@ -2,7 +2,7 @@
 This project analyzes customer churn data using Power BI. The goal is to identify key factors influencing customer churn and provide actionable insights for retention strategies.
 
 ---
-Power BI Dashboard"C:\Users\ajays\OneDrive\Pictures\Screenshots\Screenshot 2025-06-11 103953.png"
+![Power BI Dashboard]("C:\Users\ajays\OneDrive\Pictures\Screenshots\Screenshot 2025-06-11 103953.png")
 ## 📊 Dashboard Highlights
 
 - **Total Customers:** 10,000  
