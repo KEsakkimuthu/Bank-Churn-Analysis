@@ -1,5 +1,20 @@
 # 🏦 Bank Customer Churn Analysis
 This project analyzes customer churn data using Power BI. The goal is to identify key factors influencing customer churn and provide actionable insights for retention strategies.
+## ⚙️ Process Overview
+
+1. **Data Collection & Preparation**
+   - Gather customer demographic and transaction data from the bank’s database.
+   - Clean and preprocess the data (handle missing values, outliers, and data types).
+   - Engineer features relevant to churn prediction (e.g., age bracket, product count, tenure group).
+
+2. **Data Import into Power BI**
+   - Import the cleaned dataset into Power BI Desktop.
+   - Set up data relationships and model the data as needed.
+
+3. **Dashboard Development**
+   - Create interactive visuals for churn rate, age groups, credit score, tenure, product usage, gender, and country.
+   - Build filters and slicers to allow dynamic exploration of the data.
+   - Design summary cards for key metrics (total customers, churned customers, churn rate)
 
 ---![Screenshot 2025-06-11 103953](https://github.com/user-attachments/assets/5d7310e6-4956-41a5-be01-fc013c9a3d78)
 
